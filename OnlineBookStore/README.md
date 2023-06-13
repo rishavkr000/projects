@@ -1,5 +1,3 @@
-# Uranium
-
 ## Project - Books Management
 
 ### Key points
